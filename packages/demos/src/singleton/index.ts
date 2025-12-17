@@ -1,0 +1,1 @@
+export { SingletonDemo } from "./SingletonDemo";

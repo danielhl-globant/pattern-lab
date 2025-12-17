@@ -1,0 +1,10 @@
+{
+  "name": "@pattern-lab/demos",
+  "version": "0.0.1",
+  "private": true,
+  "type": "module",
+  "peerDependencies": {
+    "react": "^18",
+    "react-dom": "^18"
+  }
+}
